@@ -2,11 +2,10 @@
 Heroku deployed link: "https://coding-bootcamp-project-1.herokuapp.com/index.html"
 
 ## Concept
+
 Our original concept was a website where the user could get information about which locations around the US are the best place
-to live, based on certain criteria such as average temperature and crime rate. This idea morphed into our final idea, that of
-a travel website where the user could search a city, state, and date range, and it would bring up various pieces of
-information aobut the city, as well as a dynamically created table of different types of events going on around that city
-during that date range.
+to live, based on certain criteria such as average temperature and crime rate. This idea morphed into our final idea. A travel app where the user searches a city, state, and date range. Various pieces of information about the city are returned, 
+as well as a dynamically created table of events occurring that city during that date range. 
 
 ## Technologies
 We used many different libraries in our website, including...
